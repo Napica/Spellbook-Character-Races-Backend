@@ -1,1 +1,1 @@
-# Spellbook-Character-Races-Backend
+# Spell-Book-Server-Setup
